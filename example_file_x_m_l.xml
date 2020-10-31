@@ -1,0 +1,20 @@
+<kontakty>
+	<osoba>
+		<imie foo="Praca">Zygmunt</imie>
+		<nazwisko>Nowak</nazwisko>
+		<telefon>890378292</telefon>
+		<email>xyz@onet.pl</email>
+	</osoba>
+	<osoba>
+		<imie foo="Praca">Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<telefon>825018292</telefon>
+		<email>xyz@op.pl</email>
+	</osoba>
+	<osoba>
+		<imie foo="Znajomy">Tomek</imie>
+		<nazwisko>Nowak</nazwisko>
+		<telefon>893882222</telefon>
+		<email>xyz@gmail.com</email>
+	</osoba>
+</kontakty>
